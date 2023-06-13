@@ -24,3 +24,11 @@ ourArray[1] = "not b anymore";
 En utilisant la notation entre parenthèses, nous avons maintenant réinitialisé l'élément à l'index 1 de la chaîne b, à not b anymore. Maintenant `ourArray` est égale à `["a", "not b anymore", "c"]`.
 
 Afin de relever ce défi, définissez la 2ème position (indice `1`) de `myArray` sur tout ce que vous voulez, en plus de la lettre `b`.
+
+```js
+let myArray = ["a", "b", "c", "d"];
+// Votre code ici
+
+// Votre code ici
+console.log(myArray);
+```
