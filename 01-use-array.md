@@ -34,6 +34,9 @@ let complexArray = [
 ];
 
 ```
+
+# Exercice
+
 Nous avons défini une variable appelée `yourArray`. Complétez l'instruction en affectant un tableau d'au moins 5 éléments à la variable `yourArray`. Votre tableau doit contenir au moins une chaîne , un nombre et un booléen .
 
 ```js
