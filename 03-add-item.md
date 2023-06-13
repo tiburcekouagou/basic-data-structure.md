@@ -18,6 +18,8 @@ romanNumerals.push(twentyThree);
 ```
 `romanNumerals` aura la valeur `['XIX', 'XX', 'XXI', 'XXII', 'XXIII']`. Notez que nous pouvons également passer des variables, ce qui nous permet encore plus de flexibilité dans la modification dynamique des données de notre tableau.
 
+# Exercice
+
 Nous avons défini une fonction, mixedNumbers, à laquelle nous transmettons un tableau en tant qu'argument. Modifiez la fonction en utilisant `push()` et `unshift()` pour ajouter `'I', 2, 'three'` au début du tableau et `7, 'VIII', 9` à la fin afin que le tableau renvoyé contienne des représentations des nombres 1-9 dans l'ordre.
 
 ```js
