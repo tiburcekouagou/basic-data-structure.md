@@ -25,3 +25,17 @@ let popped = greetings.pop();
 ```
 
 `greetingsaurait` aura comme valeur `[]`, et `popped` aura comme valeur `hello`.
+
+# Exercice
+
+Nous avons défini une fonction, `popShift`, qui prend un tableau comme argument et renvoie un nouveau tableau. Modifiez la fonction, en utilisant `pop()` et `shift()`, pour supprimer les premier et dernier éléments du tableau d'arguments, et affectez les éléments supprimés à leurs variables correspondantes, de sorte que le tableau renvoyé contienne leurs valeurs.
+
+```js
+function popShift(arr) {
+  let popped; // Changez cette ligne
+  let shifted; // Changez cette ligne
+  return [shifted, popped];
+}
+
+console.log(popShift(['challenge', 'is', 'not', 'complete']));
+```
